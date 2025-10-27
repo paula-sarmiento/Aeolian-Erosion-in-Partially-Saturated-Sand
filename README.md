@@ -11,7 +11,3 @@ Cavalcante, A. L. B., & Zornberg, J. G. (2017).
 ## Current Status
 At this stage, the model reproduces the transient water flow in partially saturated sand based on the formulation by Cavalcante & Zornberg (2017).
 The coupling with surface boundary conditions representing evaporation fluxes and the evaluation of the Friction Threshold Velocity (FTV) are planned for the next development phase.
-
-## Author
-Paula Sarmiento  
-Ph.D. Student, North Carolina State University  
